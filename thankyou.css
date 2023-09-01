@@ -1,0 +1,19 @@
+
+        *{
+            font-size: 40px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        a{
+            text-decoration: underline;
+            color: blueviolet;
+        }
+        h1{
+            color: green;
+        }
+        img{
+            color: blueviolet;
+        }
+        h3{
+            color: blueviolet;
+        }
